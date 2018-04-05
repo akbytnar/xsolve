@@ -1,0 +1,46 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+table{
+  width:100%;
+}
+.App{
+  margin: 20px;
+}
+img{
+  width: 15px;
+}
+input{
+  display: flex;
+}
+.react-datetime-picker{
+  display: flex !important;
+}
+.table-header-wrapper{
+  overflow: visible !important;
+}
+.table-hover{
+  border-bottom: 1px solid lightgrey !important;
+  padding: 10px 0!important;
+}
+th{
+  overflow: visible !important;
+}
+.up{
+  z-index: 10;
+}
+.down{
+  z-index: 1;
+}
+h5{
+  margin:0;
+}
+.nav{
+  text-align: center;
+  margin-top: 20px;
+}
+.nav a img{
+  width: 30px;
+}
